@@ -50,3 +50,13 @@
 .overlay button:hover {
   background: #bbb;
 }
+
+.overlay h1 {
+  color: red;
+  text-align: center;
+}
+  
+.overlay  p {
+  color: red;
+  text-align: center;
+}
