@@ -10,14 +10,14 @@
 }
 .bodyoverlay h1 {
   color: white;
-  text-align: left;
+  text-align: center;
   text-indent: 20px;
 }
 .bodyoverlay .locbtn {
   position: absolute;
   z-index: 1;
   color: white;
-  text-align: left;
+  text-align: right;
   text-indent: 20px;
 }
   
