@@ -681,6 +681,11 @@ input, select, textarea {
 
 /* Image */
 
+        .gif {
+                max-width: 100%;
+                height: auto;
+        }
+
 	.image {
 		display: inline-block;
 		position: relative;
